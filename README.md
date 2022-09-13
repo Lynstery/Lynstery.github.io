@@ -1,0 +1,2 @@
+# lynstery.github.io
+blog
